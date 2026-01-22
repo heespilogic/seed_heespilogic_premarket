@@ -1,0 +1,9 @@
+{
+  "PREMARKET_MSFT": {
+    "name": "MSFT Pre-Market OHLCV",
+    "description": "Daily pre-market (4:00-9:30 ET) OHLCV for MSFT",
+    "type": "custom",
+    "unit": "shares",
+    "currency": "USD"
+  }
+}
